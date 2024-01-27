@@ -20,5 +20,5 @@ function letScoping() {
   console.log(x);
 }
 
-letScoping();
-//varScoping();
+//letScoping();
+varScoping();
